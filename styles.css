@@ -1,0 +1,24 @@
+body{
+  background-color: #F0F8FF;
+  font-family: 'Open Sans', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 10px;
+  padding: 20px;
+}
+
+div {
+ float:left ; 
+
+}
+input {
+	border: 1px solid #f0f0f0;
+	border-radius: 1px;
+	
+	font-family: inherit;
+	font-size: 14px;
+	padding: 5px;
+	width: 40%;
+}
